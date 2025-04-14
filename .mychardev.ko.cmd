@@ -1,0 +1,1 @@
+savedcmd_/home/salathiel/char_driver_lab/mychardev.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/salathiel/char_driver_lab/mychardev.ko /home/salathiel/char_driver_lab/mychardev.o /home/salathiel/char_driver_lab/mychardev.mod.o

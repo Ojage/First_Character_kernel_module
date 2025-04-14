@@ -1,0 +1,1 @@
+savedcmd_/home/salathiel/char_driver_lab/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/salathiel/char_driver_lab/Module.symvers -T /home/salathiel/char_driver_lab/modules.order -i Module.symvers -e 

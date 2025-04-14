@@ -1,0 +1,1 @@
+savedcmd_/home/salathiel/char_driver_lab/mychardev.mod := printf '%s\n'   mychardev.o | awk '!x[$$0]++ { print("/home/salathiel/char_driver_lab/"$$0) }' > /home/salathiel/char_driver_lab/mychardev.mod
